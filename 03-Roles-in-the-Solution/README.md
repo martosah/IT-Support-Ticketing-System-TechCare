@@ -10,7 +10,7 @@ The solution supports six roles. Each one represents a distinct function inside 
 The largest user population — TechCare employees who submit tickets when they have an IT issue or request.
 
 **In the system:** submits new tickets, views their own tickets, adds comments, confirms or reopens resolutions.
-**Cannot:** view other users' tickets, set Priority directly, edit ticket fields after submission, see internal agent notes.
+**Cannot:** view other users' tickets, set Priority directly, edit ticket fields after submission, see agent-only comments not shared with the requester.
 **ITIL alignment:** *User of the IT service.*
 
 ---
@@ -70,8 +70,8 @@ Technical custodian of the platform. Configures and maintains the system itself.
 | # | Role | ITIL Function | Primary Activity | Population |
 |---|---|---|---|---|
 | 1 | End User | User of the service | Submits and tracks own tickets | 500–2,000 |
-| 2 | Service Desk Analyst | L1 Service Desk | Triage and first-call resolution | 4–8 |
-| 3 | Specialist Technician | L2/L3 Specialist | Investigates and resolves escalations | 4–10 |
+| 2 | Service Desk Analyst | L1 Service Desk | Triage and first-call resolution | 6–10 |
+| 3 | Specialist Technician | L2/L3 Specialist | Investigates and resolves escalations | 3–5 |
 | 4 | IT Support Manager | Incident Manager + SD Manager | Oversight, escalation, reporting | 1–2 |
 | 5 | IT Service Owner | Service Owner | Strategic visibility | 1–3 |
 | 6 | System Administrator | Process Owner + Tooling Admin | Configuration and maintenance | 1–2 |
