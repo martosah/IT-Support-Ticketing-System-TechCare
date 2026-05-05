@@ -11,6 +11,7 @@ The largest user population — TechCare employees who submit tickets when they 
 
 **In the system:** submits new tickets, views their own tickets, adds comments, confirms or reopens resolutions.
 **Cannot:** view other users' tickets, set Priority directly, edit ticket fields after submission, see agent-only comments not shared with the requester.
+
 **ITIL alignment:** *User of the IT service.*
 
 ---
