@@ -22,6 +22,7 @@ Frontline IT staff who receive every incoming ticket, perform triage, and resolv
 
 **In the system:** views their queue, claims and resolves tickets, applies known fixes, escalates to L2 when needed, communicates with end users.
 **Cannot:** reassign across teams, override priority, modify SLAs.
+
 **ITIL alignment:** *Service Desk Analyst.*
 
 ---
@@ -32,6 +33,7 @@ Senior IT staff with domain expertise — network, applications, security, infra
 
 **In the system:** takes ownership of escalated tickets, adds technical investigation notes, documents Root Cause for high-priority incidents, resolves and closes.
 **Cannot:** modify SLA configurations, reassign to other specialist teams without manager approval.
+
 **ITIL alignment:** *Specialist Technical Support (Tier 2/3).*
 
 ---
@@ -42,6 +44,7 @@ Supervises the operation. Combines team management with Incident Management proc
 
 **In the system:** views all tickets across the organisation, reassigns and rebalances workload, overrides priority where justified (with audit), declares Major Incidents, monitors SLA compliance, generates reports.
 **Cannot:** modify the underlying SLA framework or category structure (that's the System Administrator).
+
 **ITIL alignment:** *Incident Manager combined with Service Desk Manager.*
 
 ---
@@ -52,6 +55,7 @@ Senior IT leadership — IT Director, CIO, Head of IT Operations. Strategic visi
 
 **In the system:** accesses executive dashboards (volume, MTTA, MTTR, SLA compliance, trends), drills down to specific tickets when needed, approves major changes to SLA framework or categories.
 **Cannot:** edit ticket data, reassign tickets, configure system settings.
+
 **ITIL alignment:** *Service Owner.*
 
 ---
@@ -62,6 +66,7 @@ Technical custodian of the platform. Configures and maintains the system itself.
 
 **In the system:** maintains categories, SLAs, routing rules, security roles, and notification templates. Manages user provisioning and integrations.
 **Cannot:** view or edit ticket content (separation of duties), modify audit logs.
+
 **ITIL alignment:** *Process Owner combined with Tooling Administrator.*
 
 ---
