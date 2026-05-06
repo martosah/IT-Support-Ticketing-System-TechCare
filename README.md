@@ -25,6 +25,7 @@ I worked through the design in seven sections, each one feeding into the next:
 | 5 | [Business Requirements](./05-Business-Requirements) | 50 functional + 14 non-functional requirements |
 | 6 | [Acceptance Criteria](./06-Acceptance-Criteria) | Acceptance criteria covering every requirement |
 | 7 | [Entity Relationship Diagram](./07-Entity-Relationship-Diagram) | The data model and relationships |
+| 8 | [Power Platform Components](./08-Power-Platform-Components) | Components selected to deliver the solution |
 
 ---
 
@@ -58,7 +59,8 @@ IT-Support-Ticketing-System-TechCare/
 ├── 04-Key-Stakeholders/
 ├── 05-Business-Requirements/
 ├── 06-Acceptance-Criteria/
-└── 07-Entity-Relationship-Diagram/
+├── 07-Entity-Relationship-Diagram/
+└── 08-Power-Platform-Components/
 ```
 
 ---
