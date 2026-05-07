@@ -6,7 +6,7 @@ Phase 1 design and specification for an ITIL-aligned IT Support Ticketing System
 
 ## The Problem
 
-TechCare Solutions, a fictional mid-to-large regulated enterprise, receives 200+ IT support requests weekly through email and phone. There is no centralised system, which leads to missed SLAs, duplicated work, frustrated staff, no audit trail, and no data for service improvement.
+TechCare Solutions, a fictional mid-to-large regulated enterprise, receives 200+ IT support requests weekly through email and phone. There is no centralized system, which leads to missed SLAs, duplicated work, frustrated staff, no audit trail, and no data for service improvement.
 
 Each of these is a symptom of a missing Service Desk function — the foundation of any mature IT operation in ITIL terms.
 
